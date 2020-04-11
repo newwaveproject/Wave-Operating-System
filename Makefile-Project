@@ -1,0 +1,43 @@
+/* Gnustep Runtime for Wave OS former known as Syllable Desktop 0.6.6 */
+/* This is an early stage makefile for a new wrapper based gnustep runtime */
+/* This has not full syntax implemented, it's just a reference*/
+/* This runtime is offered "AS IS" and Wave Project takes no liability*/
+/* This is offered to you under gnu lgpl licence terms */
+/* This runtime is being created by MadScientist*/
+
+/* Those are the source files that are to be included in the gnustep-unit build*/
+/*The goal is to get Wave OS, based on Syllable Desktop 0.6.6 able to understand gnustep and cocoa apps and run them*/
+
+
+Files to be MakeFiled:
+
+NewNSActionCell.m
+NewNSBrowser.mm
+NewNSButton.MM
+NewNSCell.m
+NewNScheckbox.mm
+NewNSComboBoxCell.m
+NewNSfont.mm
+NewNSgorm.mm
+NewNShelp.mm
+NewNSimages.mm
+NewNSinput.mm
+NewNSLevelIndicatorCell.m
+NewNSmedia.mm
+NewNSmenu.mm
+NewNSObjectPrototype.mm
+NewNSpixmaps.mm
+NewNSprint.mm
+NewNSProgressIndicator.mm
+NewNSscroll.mm
+NewNSSearchFieldCell.m
+NewNSSegmentedCell.m
+NewNSSliderCell.m
+NewNSslider.mm
+NewNSStepperCell.m
+NewNStable.mm
+NewNSTextFieldCell.m
+NewNSTokenFieldCell.m
+NewNStoolbar.mm
+NewNSview.mm
+NewNSwindow.mm
